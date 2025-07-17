@@ -1,7 +1,7 @@
 # 🎯 **FEEDBACK DÉTAILLÉ - INTRODUCTION À CSS**
 
 **Exercice :** exercice-introduction-css-emmanuelkiyedi
-**Date d'analyse :** 17/07/2025 à 21:38
+**Date d'analyse :** 17/07/2025 à 22:04
 **Analysé par :** Coach Web Design - Validation Pédagogique
 
 ---
@@ -19,6 +19,9 @@
 💡 **Solution:** Ajoutez px, em, %, rem, etc.
 
 ### 📄 **Analyse détaillée de `./style.css`**
+
+❌ **1 valeur(s) sans unité détectée(s)**
+💡 **Solution:** Ajoutez px, em, %, rem, etc.
 
 ### � **Vérification des styles inline dans le HTML**
 
@@ -70,7 +73,7 @@
 ## 🚀 **PLAN D'ACTION PRIORITAIRE**
 
 ### **Étape 2 - Correction des erreurs :**
-1. 🔧 **Corrigez les 1 erreur(s) de syntaxe détectées**
+1. 🔧 **Corrigez les 2 erreur(s) de syntaxe détectées**
 2. ✏️ **Vérifiez l'orthographe des propriétés CSS**
 3. 📏 **Ajoutez les unités manquantes (px, em, %, etc.)**
 
@@ -93,5 +96,5 @@
 
 ---
 
-🎓 **Feedback généré automatiquement le 17/07/2025 à 21:38**
+🎓 **Feedback généré automatiquement le 17/07/2025 à 22:04**
 📧 **Questions ?** Contactez votre formateur pour des explications détaillées.
